@@ -1,1 +1,1 @@
-# et
+This folder stores trained models.
